@@ -1,3 +1,2 @@
-# hello-world
-test repo
-новый репо
+# Education-C#
+in this Repo saved examples, excersises and tasks 
